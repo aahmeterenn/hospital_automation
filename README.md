@@ -5,7 +5,7 @@ A simple hospital management application written in C. Supports patient and doct
 ## Features
 - Patient registration
 - Doctor registration
-- Appointment booking and cancellation
+- Appointment booking
 - Admin login with password verification
 - View list of doctors
 
