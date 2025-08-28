@@ -120,7 +120,7 @@ void yetkili_giris_sayfasi(Hasta *hastalar,int *doktor_no) {
     }
   }
 
-/*int main(){
+int main(){
   Hasta hastalar[100];
   Yetkili yetkili;
   int islem=0;
@@ -158,4 +158,3 @@ void yetkili_giris_sayfasi(Hasta *hastalar,int *doktor_no) {
   }
   return 0;
 }
-*/
