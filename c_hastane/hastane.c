@@ -89,7 +89,7 @@ void yetkili_giris_sayfasi(Hasta *hastalar,int *doktor_no) {
     }
     else if (islem == 3) {
       for (int i=0;i<*doktor_no;i++) {
-        printf("Doktor listesi: %d\n %d\n %d\n",doktor_no,hastalar[*doktor_no].doktor_adi,hastalar[*doktor_no].doktor_soyadi);
+        printf("Doktor listesi: %d.: %s %s\n",i+1,hastalar[i].doktor_adi,hastalar[i].doktor_soyadi);
       }
       break;
     }
