@@ -20,4 +20,5 @@ This project demonstrates C programming concepts:
 2. Compile the code:
    ```bash
    gcc test.c hastane.c -o test_program.exe
-test_program.exe
+   ```bash
+   test_program.exe
